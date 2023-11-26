@@ -1,5 +1,3 @@
-[![Version](https://img.shields.io/badge/goversion-1.18.x-blue.svg)](https://golang.org)
-[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/tsawler/goblender/master/LICENSE)
 
 # Working with Microservices in Go
 
