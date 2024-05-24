@@ -1,7 +1,7 @@
 
 # Working with Microservices in Go
 
-This is the source code for the Udemy course **Working with Microservices and Go**. This project
+This project
 consists of a number of loosely coupled microservices, all written in Go:
 
 - broker-service: an optional single entry point to connect to all services from one place (accepts JSON;
